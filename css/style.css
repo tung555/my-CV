@@ -117,9 +117,6 @@ hr {
   border-color: rgb(255, 0, 157);
 }
 
-/* Sections */
-section {}
-
 /* Section Headings */
 .education-skills-experience section h2 {
   font-family: "Playwrite FR Moderne", serif;
@@ -183,13 +180,6 @@ section {}
 .education-skills-experience a:hover {
   color: rgb(103, 8, 8);
 }
-
-/* List Styles */
-ul {}
-
-dl {}
-dl dt{}
-dl dd{}
 
 /* Project Section */
 .three-col {
